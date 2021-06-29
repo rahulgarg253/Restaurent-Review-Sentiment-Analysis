@@ -9,3 +9,11 @@ To build a model to predict if review is positive or negative, following steps a
 * Vectorization
 * Training and Classification
 * Analysis Conclusion
+
+There are three basic steps for this project
+
+1.cleaning the text 
+
+2.creating bag of words 
+
+3.ML model using classifier. 
